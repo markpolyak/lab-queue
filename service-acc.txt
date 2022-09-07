@@ -1,0 +1,3 @@
+service-acc@suaiqueue.iam.gserviceaccount.com
+
+table: https://docs.google.com/spreadsheets/d/1zU3Bzgeq5L5T7PYYASGhQlQtFas3mjdch10gL2R61hA/edit#gid=628798390
